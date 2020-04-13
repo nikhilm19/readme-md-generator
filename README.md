@@ -52,9 +52,9 @@ npm run test
 
 ## Author
 
-👤 **as**
+👤 **Franck Abgrall**
 
-* Email: [@nikmul19@gmail.com](mailto:nikmul19@gmail.com)
+* Email: [info@example.com](mailto:info@example.com)
 * Website: https://www.franck-abgrall.me/
 * GitHub: [@kefranabg](https://github.com/kefranabg)
 
@@ -68,7 +68,7 @@ Give a ⭐️ if this project helped you!
 
 ## 📝 License
 
-Copyright © 2020 [as](https://github.com/kefranabg).<br />
+Copyright © 2020 [Franck Abgrall](https://github.com/kefranabg).<br />
 This project is [MIT](https://github.com/kefranabg/readme-md-generator/blob/master/LICENSE) licensed.
 
 ***
