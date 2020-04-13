@@ -26,6 +26,14 @@
 
 > <%= projectDescription %>
 <% } -%>
+
+
+<% if (projectFeatures) { -%>
+
+> <%= projectFeartures %>
+<% } -%>
+
+
 <% if (projectHomepage) { -%>
 
 ### 🏠 [Homepage](<%= projectHomepage %>)
@@ -72,6 +80,9 @@
 <% if (authorName) { %>
 👤 **<%= authorName %>**
 <% } %>
+<% if (authorEmail) { -%>
+* Email: [<%= authorEmailId %>](mailto:<%= authorEmailId %>)
+<% } -%>
 <% if (authorWebsite) { -%>
 * Website: <%= authorWebsite %>
 <% } -%>

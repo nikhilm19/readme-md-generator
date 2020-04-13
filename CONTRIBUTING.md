@@ -34,7 +34,7 @@ To install the project you need to have `node` and `npm`
 4.  from the root of the project: `npm start` to run the cli.
 
 > Tip: Keep your `master` branch pointing at the original repository and make
-> pull requests from branches on your fork. To do this, run:
+> pull requests from branches on your fork. to do this, run:
 >
 > ```sh
 > git remote add upstream https://github.com/kefranabg/readme-md-generator.git
